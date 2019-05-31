@@ -3,7 +3,7 @@
 Control of Diphone scripts from OM.
 
 
-<img src="./docs/images/om-diph.png">
+<img src="./docs/om-diph.png">
 
 OM-Diph provides an extended set of functions allowing for the scripting and automatic control of the Diphone software.
 
